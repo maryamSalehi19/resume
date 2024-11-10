@@ -1,0 +1,18 @@
+.headerBox {
+  position: fixed;
+  top: 0;
+  background-color: #ffffff;
+  z-index: 1000;
+}
+
+.name {
+  font-size: 22px;
+  font-weight: 700;
+  background: linear-gradient(90deg, #9d91ff 0%, #91bbff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.rightMenu {
+  font-size: 20px;
+  font-weight: 500;
+}

@@ -1,0 +1,26 @@
+.aboutMeBox .aboutName {
+  font-size: 80px;
+  color: #363636;
+  font-weight: 700;
+}
+
+.aboutMeBox .aboutTitle {
+  font-size: 17px;
+  font-weight: 600;
+  background: linear-gradient(90deg, #9d91ff 0%, #91bbff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.aboutMeBox .aboutValue {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.aboutMeBox .aboutMe {
+  font-size: 16px;
+  color: #999999;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: justify;
+}

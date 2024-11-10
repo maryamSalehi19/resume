@@ -1,0 +1,26 @@
+.inputBox,
+.inputMessage {
+  width: 70%;
+  margin-top: 10px;
+  border-bottom: 1px solid #363636;
+}
+.inputBox {
+  height: 45px;
+}
+.inputMessage {
+  height: 70px;
+}
+.inputBox::placeholder,
+.inputMessage::placeholder {
+  opacity: 0.8;
+  font-size: 14px;
+  font-weight: 300;
+  color: #363636;
+}
+.inputMessage::placeholder {
+  transform: translateY(100%);
+}
+.inputBox:focus,
+.inputMessage:focus {
+  outline: none;
+}

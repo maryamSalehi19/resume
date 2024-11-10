@@ -1,0 +1,34 @@
+.aboutBox {
+  margin-top: 100px;
+}
+
+.aboutBox .aboutName {
+  font-size: 80px;
+  font-weight: 700;
+  background: linear-gradient(90deg, #9d91ff 0%, #91bbff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.aboutBox .aboutPosition {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.aboutBox .aboutCV {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  width: fit-content;
+  border-radius: 100px;
+  background: linear-gradient(90deg, #9f8cff 0%, #8fc0ff 100%);
+}
+
+.aboutBox .aboutPortfolio {
+  font-size: 22px;
+  font-weight: 600;
+  margin-left: 70px;
+  background: linear-gradient(90deg, #9d91ff 0%, #91bbff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

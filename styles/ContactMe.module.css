@@ -1,0 +1,19 @@
+.title,
+.ContactText {
+  font-weight: 700;
+  background: linear-gradient(90deg, #9d91ff 0%, #91bbff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.title {
+  font-size: 40px;
+}
+.ContactText {
+  font-size: 80px;
+}
+.contactSubmit {
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 100px;
+  background: linear-gradient(90deg, #9d91ff 0%, #91bbff 100%);
+}

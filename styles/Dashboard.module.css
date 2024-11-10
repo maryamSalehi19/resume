@@ -1,0 +1,14 @@
+.customContainer {
+  max-width: 1110px;
+  margin: 15px auto;
+  border-radius: 8px;
+  border: 1px solid #52575c;
+}
+
+.customContainer ul {
+  border-radius: 8px 0 0 8px;
+}
+
+.customContainer ul .react-tabs__tab--selected {
+  border: 1px solid red;
+}

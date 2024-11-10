@@ -1,0 +1,21 @@
+.projextBox {
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 0px 5px 5.7px 1px #c8c8c840;
+}
+.projextBox .imageBox img {
+  border-radius: 20px;
+  border-bottom: 1px solid #eee;
+}
+.projextBox .linkBox {
+  color: #9c94ff;
+  text-decoration: underline;
+}
+.projextBox .projectDesc {
+  width: 300px;
+  font-size: 14px;
+  font-weight: 400;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
